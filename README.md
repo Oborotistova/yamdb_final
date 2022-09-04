@@ -1,6 +1,6 @@
 # yamdb_final
 yamdb_final
-![Build Status](https://github.com/oborotistova/yamdb_final/workflows/Run%20tests/badge.svg)](https://github.com/oborotistova/yamdb_final/actions/workflows/yamdb_workflow.yml)
+![Build Status](https://github.com/oborotistova/yamdb_final/workflows/Run%20tests/badge.svg)](https://github.com/oborotistova/yamdb_final/.github/workflows/yamdb_workflow.yml)
 ## Описание
 
 
