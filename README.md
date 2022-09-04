@@ -2,7 +2,7 @@
 yamdb_final
 
 <!-- ![Build Status](https://github.com/Oborotistova/yamdb_final/workflows/Run%20tests/badge.svg)](https://github.com/Oborotistova/yamdb_final/.github/workflows/yamdb_workflow.yml) -->
-![Build Status](https://github.com/Oborotistova/yamdb_final/.github/workflows/yamdb_workflow.yml/badge.svg)
+![Build Status](https://github.com/Oborotistova/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
 ## Описание
 
